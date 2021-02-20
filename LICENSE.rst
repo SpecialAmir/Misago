@@ -1,7 +1,7 @@
 GNU General Public License
 ==========================
 
-*Version 2, June 1991*
+*Version 2, June 1991*   
 *Copyright © 1989, 1991 Free Software Foundation, Inc.*
 *51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA*
 
